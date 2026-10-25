@@ -1,0 +1,15 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter / IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Gecici Dosyalar & Loglar
+*.log
+*.tmp
+lstm_preds.npy
+actuals.npy
